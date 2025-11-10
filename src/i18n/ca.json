@@ -1,0 +1,6 @@
+{
+  "login": "Inicia sessió",
+  "username": "Nom d'usuari",
+  "password": "Contrasenya",
+  "login_error": "Error d'autenticació. Comprova les credencials."
+}
