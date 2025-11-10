@@ -2,5 +2,15 @@
   "login": "Inicia sessió",
   "username": "Nom d'usuari",
   "password": "Contrasenya",
-  "login_error": "Error d'autenticació. Comprova les credencials."
+  "login_error": "Error d'autenticació. Comprova les credencials.",
+  "animals": "Animals",
+  "loading": "Carregant...",
+  "locked": "Bloquejat",
+  "unlocked": "Desbloquejat",
+  "unlock": "Desbloqueja",
+  "unlock_animal": "Desbloqueja l'animal",
+  "animal_name": "Nom de l'animal",
+  "form_error": "Cal introduir el nom i seleccionar una imatge.",
+  "unlock_error": "Error en desbloquejar l'animal.",
+
 }
